@@ -1,0 +1,43 @@
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\appsettings.json
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\Book store.staticwebassets.runtime.json
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\Book store.exe
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\Book store.deps.json
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\Book store.runtimeconfig.json
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\Book store.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\Book store.pdb
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\staticwebassets\msbuild.Book store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book store.props
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book store.props
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book store.props
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\scopedcss\bundle\Book store.styles.css
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\scopedcss\projectbundle\Book store.bundle.scp.css
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\refint\Book store.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.pdb
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\ref\Book store.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\obj\Debug\net7.0\Book store.csproj.CopyComplete
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\FubarCoder.RestSharp.Portable.Core.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\FubarCoder.RestSharp.Portable.HttpClient.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\JsonSubTypes.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\.Net\Book Project\Book store\bin\Debug\net7.0\sib_api_v3_sdk.dll

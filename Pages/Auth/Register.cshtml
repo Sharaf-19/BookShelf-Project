@@ -1,0 +1,110 @@
+﻿@page
+@model Book_store.Pages.Auth.RegisterModel
+@{
+}
+
+
+<div class="row">
+    <div class="col-lg-8 mx-auto mask align-items-center">
+        <div class="card" style="border-radius: 15px;">
+            <div class="card-body text-white p-5 py-0" style="background-color: #000000;">
+                <h2 class="text-center text-uppercase text-center mb-5">Create new Account</h2>
+                @if(Model.errorMessage.Length > 0)
+                {
+                   <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                       <strong>@Model.errorMessage</strong>
+                       <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                }
+                else if(Model.successMessage.Length > 0)
+                {
+                    <div class="alert alert-success alert-dismissible fade show" role="alert">
+                        <strong>@Model.successMessage</strong>
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                }
+
+                <form method="post" class="py-0">
+                    <div class="row mb-2">
+                        <div class="col-sm-6">
+                            <label class=" col-form-label fw-bold">First Name</label>
+                            <div class="">
+                                <input class="form-control" asp-for="Firstname" />
+                                <span asp-validation-for="Firstname" class="text-danger"></span>
+                            </div>
+                        </div>
+                       
+
+                        <div class="col-sm-6">
+                            <label class=" col-form-label fw-bold">Last Name</label>
+                            <div class="">
+                                <input class="form-control" asp-for="Lastname" />
+                                <span asp-validation-for="Lastname" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                        
+                    
+
+                    <div class="row mb-2">
+                        <label class="col-form-label fw-bold">Email</label>
+                        <div class="col-sm-12">
+                            <input class="form-control" asp-for="Email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-2">
+                        <label class=" col-form-label fw-bold">Phone Number</label>
+                        <div class="col-sm-12">
+                            <input class="form-control" asp-for="Phone" />
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                    </div>
+                        
+                     <div class="row mb-2">
+                        <label class=" col-form-label fw-bold">Address</label>
+                        <div class="col-sm-12">
+                            <input class="form-control" asp-for="Address" />
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                     </div>  
+                     
+                     <div class="row mb-2">
+                        <label class=" col-form-label fw-bold">Password</label>
+                        <div class="col-sm-12">
+                            <input class="form-control" type="password" asp-for="Password" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                     </div>
+                     
+                     <div class="row mb-2">
+                        <label class=" col-form-label fw-bold">Confirm Password</label>
+                        <div class="col-sm-12">
+                            <input class="form-control" type="password" asp-for="ConfirmPassword" />
+                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row my-5">
+                        <div class="offset-sm-4 col d-grid">
+                            <button type="submit" class="btn btn-light"
+                            >Register</button>
+                        </div>
+                        <div class="col-sm-4 d-grid">
+                            <a class="btn btn-outline-light"
+                               href="/" role="button">Cancel</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer">
+                <p class="text-center">
+                    Have already an account?
+                    <a href="/Auth/Login" class="link-info fw-bold text-decoration-none">Login here</a>
+                </p>
+            </div>
+        </div>
+
+    </div>
+</div>

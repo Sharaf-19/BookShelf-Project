@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Book store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Book store.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books.jpg",
+      "PackagePath": "staticwebassets\\images\\books.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\10590390-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\10590390-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\10744695-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\10744695-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\10967363-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\10967363-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\1167760-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\1167760-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\11736965-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\11736965-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\12643487-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\12643487-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\1558736-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\1558736-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\1630342-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\1630342-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\173276-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\173276-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\20221017212705973.jpeg",
+      "PackagePath": "staticwebassets\\images\\books\\20221017212705973.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\2286633-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\2286633-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\417327-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\417327-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\4641132-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\4641132-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\5295596-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\5295596-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\5738053-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\5738053-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\63529-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\63529-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\6601760-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\6601760-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\6689997-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\6689997-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\6972586-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\6972586-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\8052226-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\8052226-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\8188236-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\8188236-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\8365530-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\8365530-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\8460088-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\8460088-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\8989024-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\8989024-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\9153762-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\9153762-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\9297071-L.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\9297071-L.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\books\\9781573921091.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\9781573921091.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\bookshelf-logo.png",
+      "PackagePath": "staticwebassets\\images\\bookshelf-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\images\\library.png",
+      "PackagePath": "staticwebassets\\images\\library.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\.Net\\Book Project\\Book store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Book store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Book store.props",
+      "PackagePath": "build\\Book store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Book store.props",
+      "PackagePath": "buildMultiTargeting\\Book store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Book store.props",
+      "PackagePath": "buildTransitive\\Book store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
